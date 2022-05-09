@@ -4,7 +4,7 @@
 
 Hello, I am Jannatul Ferdous Happy. I am a Self-motivated, adaptable, and ambitious Web Developer. and an enthusiastic learner of new technologies to gain confidence and experience in the field of Full-Stack Web Development, and express my innovative, and creative skills through unique leadership and teamwork for the company and self-development. Improves properties and streamlines operations for efficiency. Hardworking and resourceful with a friendly and professional demeanor.
 
-Skills:   REACT / JS / HTML / CSS/ EXPRESS JS
+Skills:   REACT / JS / HTML / CSS/ EXPRESS JS / REDUX / MONGODB / TYPESCRIPT
 
 - 🔭 I’m currently working on making website 
 - 🌱 I’m currently learning JavaScript, React and Node js 
