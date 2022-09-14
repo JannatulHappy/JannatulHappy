@@ -7,7 +7,7 @@ Hello, I am Jannatul Ferdous Happy. I am a Self-motivated, adaptable, and ambiti
 Skills:   REACT / JS / HTML / CSS/ EXPRESS JS / REDUX / MONGODB / TYPESCRIPT
 
 - 🔭 I’m currently working on making website 
-- 🌱 I’m currently learning JavaScript, React and Node js 
+- 🌱 I’m currently learning JavaScript, React ,Redux and Node js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
 - 📫 How to reach me: jannatulfersoushappy21@gmail.com 
