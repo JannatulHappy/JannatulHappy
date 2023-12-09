@@ -84,34 +84,16 @@ I am a self-motivated and adaptable Web Developer with a passion for learning ne
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JannatulHappy)
 
-## GitHub Metrics
 
-![GitHub metrics](https://metrics.lecoq.io/JannatulHappy)
 
 ## GitHub Streak Stats
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy)
 
-## Profile Views
 
-![Profile views](https://gpvc.arturio.dev/JannatulHappy)
-
-## Fun Fact
-
-I love coding while sipping a cup of coffee, and my favorite coding soundtrack is a mix of lo-fi beats.
-
-## Achievements
-
-- Completed a Full-Stack Web Development Bootcamp
-- Contributed to open-source projects
-- Received recognition for excellence in teamwork
 
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Stats Map
 
-![GitHub Stats Map](https://github.com/ashutosh00710/github-readme-stats/blob/master/maps/map1.png)
-
-Feel free to reach out, and let's build something amazing together! 😊
