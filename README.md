@@ -48,7 +48,7 @@ committed to continuous learning for organizational growth.
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-JannatulHappy-blue?style=for-the-badge&logo=github)](https://github.com/JannatulHappy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-JannatulFerdousHappy1-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/JannatulFerdousHappy1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-JannatulFerdousHappy1-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jannatulferdoushappy)
 [![Facebook](https://img.shields.io/badge/Facebook-JannatulFerdousHappy1-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/JannatulFerdousHappy1)
 
 
