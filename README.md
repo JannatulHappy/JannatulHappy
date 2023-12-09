@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Jannatul Ferdous Happy
-#### Web Developer
+#### Junior MERN stack Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C4E16AQEVc9_0xAJW0g/profile-displaybackgroundimage-shrink_350_1400/0/1638108630073?e=1652313600&v=beta&t=_hrCg7syf3IekhgtN96BLR4RlNoXloEN2f-PhgHfXEg)
 
-Hello, I am Jannatul Ferdous Happy. I am a Self-motivated, adaptable, and ambitious Web Developer. and an enthusiastic learner of new technologies to gain confidence and experience in the field of Full-Stack Web Development, and express my innovative, and creative skills through unique leadership and teamwork for the company and self-development. Improves properties and streamlines operations for efficiency. Hardworking and resourceful with a friendly and professional demeanor.
+I am a Self-motivated, adaptable, and ambitious Web Developer. and an enthusiastic learner of new technologies to gain confidence and experience in the field of Full-Stack Web Development and express my innovative, and creative skills through unique leadership and teamwork for the company and self-development. Improves properties and streamlines operations for efficiency. Hardworking and resourceful with a friendly and professional demeanor.
 
-Skills:   REACT / JS / HTML / CSS/ EXPRESS JS / REDUX / MONGODB / TYPESCRIPT
+Skills:   REACT / JS / HTML / CSS/ EXPRESS JS / NEXT / MONGODB / MONGOOSE
 
 - 🔭 I’m currently working on making website 
 - 🌱 I’m currently learning JavaScript, React ,Redux and Node js 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about web development 
-- 📫 How to reach me: jannatulfersoushappy21@gmail.com 
+- 📫 How to reach me: jannatul.happy1999@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JannatulHappy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/JannatulFerdousHappy1 )  
