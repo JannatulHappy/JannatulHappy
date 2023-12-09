@@ -3,7 +3,7 @@
   <img src="/images/Jannatul_Ferdous_Happy.png" alt="Web Developer">
 </p>
 
-elf-motivated and adaptable Front-End Developer seeking a challenging role to contribute dynamic coding
+Self-motivated and adaptable Front-End Developer seeking a challenging role to contribute dynamic coding
 skills and a collaborative mindset. Passionate about crafting efficient and user-friendly web applications,
 committed to continuous learning for organizational growth.
 
