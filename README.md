@@ -39,23 +39,25 @@ I am a self-motivated and adaptable Web Developer with a passion for learning ne
 
 ## 🚀 Projects
 
-### [1. E-Commerce Platform](#)
-- Developed a full-fledged e-commerce platform using React and Node.js
-- Integrated payment gateway for seamless transactions
-- Implemented user authentication, product search, and cart functionality
-- Technologies: React, Node.js, MongoDB, Express.js
+### [1. Pollinate-Mern Stack Polling & Survey application](https://pollinate-01.web.app)
+- Intuitive survey interaction, including voting, commenting (for pro-users), and visual
+result representation
+- Integrated payment system on the pricing page for a smooth transition to pro-membership.
+-  Robust admin and surveyor dashboards for comprehensive control and feedback analysis.
+- Technologies: Tailwind, Headless Ui, React, Firebase, Axios, JWT, Tanstack, Express JS, Mongoose, Vercel
 
-### [2. Blogging Website](#)
-- Created a dynamic blogging website with user authentication
-- Implemented CRUD operations for creating, editing, and deleting blog posts
-- Integrated Markdown support for rich text editing
-- Technologies: React, Next.js, MongoDB, Express.js
+### [2. CareerVolt- Online job marketplace](https://careervolt-01.web.app)
+- Browse and manage jobs effortlessly, from posting to personalized tracking.
+- Streamline bid interactions with a sorted My Bids Page and efficient bid management for job owners
+- Ensure a seamless, secure experience with responsive design,private routes, JWT Token authentication
+- Technologies: Tailwind, React, Firebase, Axios, JWT, Tanstack, Express JS, MongoDB, Vercel
 
-### [3. Portfolio Website](#)
-- Designed and developed a personal portfolio website
-- Showcased skills, projects, and achievements in an interactive manner
-- Ensured responsiveness for a seamless user experience across devices
-- Technologies: React, HTML, CSS
+
+### [3. Vehica– Automotive Ecommerce Website](https://vehica-5c943.web.app/)
+- Securely add products using a simple form on the protected "Add Product" page.
+- Guide users to brand-specific pages with engaging layouts for products and advertisements.
+- Enhance user experience with authentication, login toggle, and a secure "My Cart" page.
+- Technologies: Tailwind, React, Firebase, Express JS, MongoDB, Vercel
 
 ## 🛠️ GitHub Stats
 
@@ -79,15 +81,6 @@ I am a self-motivated and adaptable Web Developer with a passion for learning ne
 
 ![Profile views](https://gpvc.arturio.dev/JannatulHappy)
 
-## 🚀 Technologies that I Know
-
-- **Frontend:** React, Next.js, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Version Control:** Git
-- **Tools:** Visual Studio Code, Figma
-- **Other:** RESTful APIs
-
 ## 💡 Fun Fact
 
 I love coding while sipping a cup of coffee, and my favorite coding soundtrack is a mix of lo-fi beats.
@@ -106,10 +99,5 @@ I love coding while sipping a cup of coffee, and my favorite coding soundtrack i
 
 ![GitHub Stats Map](https://github.com/ashutosh00710/github-readme-stats/blob/master/maps/map1.png)
 
-## 🚀 Open Source Contributions
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![First Timers Only](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat)](http://www.firsttimersonly.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com/)
 
 Feel free to reach out, and let's build something amazing together! 😊
