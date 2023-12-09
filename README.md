@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAF2eQHNfmk/yq_LFGq5VLG0RYvxG_ERzg/view?utm_content=DAF2eQHNfmk&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Web Developer">
+  <img src="/images/Jannatul_Ferdous_Happy.png" alt="Web Developer">
 </p>
 
 elf-motivated and adaptable Front-End Developer seeking a challenging role to contribute dynamic coding
