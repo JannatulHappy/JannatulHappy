@@ -64,26 +64,3 @@ committed to continuous learning for organizational growth.
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Projects
-
-### 1. [Pollinate - MERN Stack Polling & Survey application](https://pollinate-01.web.app)
-
-- Intuitive survey interaction, including voting, commenting (for pro-users), and visual result representation
-- Integrated payment system on the pricing page for a smooth transition to pro-membership.
-- Robust admin and surveyor dashboards for comprehensive control and feedback analysis.
-- Technologies: Tailwind, Headless Ui, React, Firebase, Axios, JWT, Tanstack, Express JS, Mongoose, Vercel
-
-### 2. [CareerVolt - Online job marketplace](https://careervolt-01.web.app)
-
-- Browse and manage jobs effortlessly, from posting to personalized tracking.
-- Streamline bid interactions with a sorted My Bids Page and efficient bid management for job owners
-- Ensure a seamless, secure experience with responsive design, private routes, JWT Token authentication
-- Technologies: Tailwind, React, Firebase, Axios, JWT, Tanstack, Express JS, MongoDB, Vercel
-
-### 3. [Vehica – Automotive Ecommerce Website](https://vehica-5c943.web.app/)
-
-- Securely add products using a simple form on the protected "Add Product" page.
-- Guide users to brand-specific pages with engaging layouts for products and advertisements.
-- Enhance user experience with authentication, login toggle, and a secure "My Cart" page.
-- Technologies: Tailwind, React, Firebase, Express JS, MongoDB, Vercel
