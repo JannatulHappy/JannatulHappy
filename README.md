@@ -7,6 +7,12 @@ Self-motivated and adaptable Front-End Developer seeking a challenging role to c
 skills and a collaborative mindset. Passionate about crafting efficient and user-friendly web applications,
 committed to continuous learning for organizational growth.
 
+## What I'm Up To
+
+- Currently working on making a website with a unique and appealing design
+- Learning JavaScript, React, Redux, and Mongoose to stay on top of industry trends
+- Exploring collaborative opportunities on GitHub
+- Available for discussions on web development
 ## Technologies and Tools
 
 <p align="center">
@@ -37,18 +43,27 @@ committed to continuous learning for organizational growth.
   <img src="https://img.shields.io/badge/Chrome Dev Tools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Dev Tools">
 </p>
 
-## What I'm Up To
 
-- Currently working on making a website with a unique and appealing design
-- Learning JavaScript, React, Redux, and Mongoose to stay on top of industry trends
-- Exploring collaborative opportunities on GitHub
-- Available for discussions on web development
 
 ## Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-JannatulHappy-blue?style=for-the-badge&logo=github)](https://github.com/JannatulHappy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JannatulFerdousHappy1-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/JannatulFerdousHappy1)
 [![Facebook](https://img.shields.io/badge/Facebook-JannatulFerdousHappy1-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/JannatulFerdousHappy1)
+
+
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true)
+
+## GitHub Streak Stats
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy)
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Projects
 
@@ -72,17 +87,3 @@ committed to continuous learning for organizational growth.
 - Guide users to brand-specific pages with engaging layouts for products and advertisements.
 - Enhance user experience with authentication, login toggle, and a secure "My Cart" page.
 - Technologies: Tailwind, React, Firebase, Express JS, MongoDB, Vercel
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true)
-
-## GitHub Streak Stats
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy)
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
-
-
