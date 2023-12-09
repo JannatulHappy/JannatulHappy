@@ -1,12 +1,11 @@
-# Hi there 👋, I'm Jannatul Ferdous Happy
-
-## Junior MERN Stack Developer | Passionate Learner | Web Enthusiast
 
 <p align="center">
   <img src="https://www.canva.com/design/DAF2eQHNfmk/yq_LFGq5VLG0RYvxG_ERzg/view?utm_content=DAF2eQHNfmk&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Web Developer">
 </p>
 
-I am a self-motivated and adaptable Web Developer with a passion for learning new technologies. My goal is to gain confidence and experience in the field of Full-Stack Web Development. I express my creativity through unique leadership and teamwork, contributing to both company success and personal growth. I specialize in improving properties and streamlining operations for maximum efficiency, combining hard work and resourcefulness with a friendly and professional demeanor.
+elf-motivated and adaptable Front-End Developer seeking a challenging role to contribute dynamic coding
+skills and a collaborative mindset. Passionate about crafting efficient and user-friendly web applications,
+committed to continuous learning for organizational growth.
 
 ## Technologies and Tools
 
@@ -38,11 +37,10 @@ I am a self-motivated and adaptable Web Developer with a passion for learning ne
   <img src="https://img.shields.io/badge/Chrome Dev Tools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Dev Tools">
 </p>
 
-
 ## What I'm Up To
 
 - Currently working on making a website with a unique and appealing design
-- Learning JavaScript, React, Redux, and Node.js to stay on top of industry trends
+- Learning JavaScript, React, Redux, and Mongoose to stay on top of industry trends
 - Exploring collaborative opportunities on GitHub
 - Available for discussions on web development
 
@@ -80,18 +78,9 @@ I am a self-motivated and adaptable Web Developer with a passion for learning ne
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true)
 
-## GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JannatulHappy)
-
-
-
 ## GitHub Streak Stats
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy)
-
-
-
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
