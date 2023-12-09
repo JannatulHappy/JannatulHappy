@@ -51,16 +51,14 @@ committed to continuous learning for organizational growth.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JannatulFerdousHappy1-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jannatulferdoushappy)
 [![Facebook](https://img.shields.io/badge/Facebook-JannatulFerdousHappy1-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/JannatulFerdousHappy1)
 
-
-
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact&theme=dark&bg_color=000000&text_color=FFFFFF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true&theme=radical)
 
 ## GitHub Streak Stats
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy&theme=dark)
 
 ## Projects
 
@@ -87,20 +85,10 @@ committed to continuous learning for organizational growth.
  
 ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy)](https://github.com/ryo-ma/github-profile-trophy)
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact&theme=dark&bg_color=000000&text_color=FFFFFF)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true&theme=radical)
-
-## GitHub Streak Stats
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy&theme=dark)
-
-## GitHub Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 
 
 
