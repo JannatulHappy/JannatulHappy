@@ -101,4 +101,17 @@ committed to continuous learning for organizational growth.
 ## GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JannatulHappy&layout=compact&theme=nord&bg_color=2E3440&text_color=ECEFF4)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JannatulHappy&show_icons=true&count_private=true&theme=gruvbox)
+
+## GitHub Streak Stats
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JannatulHappy&theme=vue-dark)
+
+## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
