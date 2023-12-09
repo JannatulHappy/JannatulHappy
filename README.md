@@ -83,9 +83,7 @@ committed to continuous learning for organizational growth.
 - Enhance user experience with authentication, login toggle, and a secure "My Cart" page.
 - Technologies: Tailwind, React, Firebase, Express JS, MongoDB, Vercel
  
-## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JannatulHappy&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
