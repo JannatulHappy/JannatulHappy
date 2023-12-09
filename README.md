@@ -3,7 +3,7 @@
 ## Junior MERN Stack Developer | Passionate Learner | Web Enthusiast
 
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEVc9_0xAJW0g/profile-displaybackgroundimage-shrink_350_1400/0/1638108630073?e=1652313600&v=beta&t=_hrCg7syf3IekhgtN96BLR4RlNoXloEN2f-PhgHfXEg" alt="Web Developer">
+  <img src="https://www.canva.com/design/DAF2eQHNfmk/yq_LFGq5VLG0RYvxG_ERzg/view?utm_content=DAF2eQHNfmk&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Web Developer">
 </p>
 
 I am a self-motivated and adaptable Web Developer with a passion for learning new technologies. My goal is to gain confidence and experience in the field of Full-Stack Web Development. I express my creativity through unique leadership and teamwork, contributing to both company success and personal growth. I specialize in improving properties and streamlining operations for maximum efficiency, combining hard work and resourcefulness with a friendly and professional demeanor.
